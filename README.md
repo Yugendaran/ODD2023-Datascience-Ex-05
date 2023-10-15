@@ -45,6 +45,7 @@ df  = pd.concat([df,data],axis=1)
 df
 ```
 ## Data.csv:
+```
 import pandas as pd
 df1 = pd.read_csv("data.csv")
 df1.head()
@@ -72,7 +73,9 @@ be = BinaryEncoder()
 data1 = be.fit_transform(df1['bin_2'])
 df1  = pd.concat([df1,data1],axis=1)
 df1
+```
 ## BMI.csv file:
+```
 import pandas as pd
 df2 = pd.read_csv("/content/bmi.csv")
 df2.head()
@@ -82,7 +85,7 @@ df2  = pd.concat([df2,data2],axis=1)
 df2
 df2 = pd.get_dummies(df2, prefix=['Index'] ,columns=['Index'])
 df2
-
+```
 
 ## OUTPUT:
 
