@@ -90,9 +90,12 @@ df2
 ## OUTPUT:
 
 ## For Encoding.csv
+
 Initial value
+```
 273361428-f5cec2f4-94be-40fa-b2c3-a59adfa35529
 
+```
 Unique value:
 273361494-029ec726-bdca-45f7-a02e-ad869bd56ee4
 
