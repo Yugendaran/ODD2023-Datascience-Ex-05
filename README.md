@@ -114,26 +114,16 @@ df2
 
 ## For Data.csv file:
 ## Initial data:
-```
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/beaddcda-a10d-4bd8-a633-c1cb51f90e7b)
-```
 ## Unique data:
-```
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/9daa9b18-fbe3-4690-a9d2-d4718b3f62db)
-```
 ## Ordinal encoder:
-```
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/68b46e3d-5b13-4996-8264-82f3cc72d73c)
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/aaf7d585-8b08-47dc-a9af-9f376e469884)
-```
 ## Label encoder:
-```
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/2429f88c-52bb-44a1-a0d1-a96a91d19dce)
-```
 ## Binary encoder:
-```
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/8d4e955c-707e-45df-b746-ddfdfff436c5)
-```
 ## For BMI.csv file:
 ## Initial data:
 ```
