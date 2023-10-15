@@ -6,16 +6,21 @@ To read the given data and perform Feature Generation process and save the data 
 Feature Generation (also known as feature construction, feature extraction or feature engineering) is the process of transforming features into new features that better relate to the target.
 
 ## ALGORITHM:
-STEP 1:Read the given Data
-STEP 2:Clean the Data Set using Data Cleaning Process
-STEP 3:Apply Feature Generation techniques to all the feature of the data set
-STEP 4:Save the data to the file
+STEP 1:Read the given Data.
+
+STEP 2:Clean the Data Set using Data Cleaning Process.
+
+STEP 3:Apply Feature Generation techniques to all the feature of the data set.
+
+STEP 4:Save the data to the file.
 
 ## Program:
 Developed by: YUGENDARAN G
+
 Register number: 212221220063
 
 ## For Encoding.csv file:
+```
 import pandas as pd
 df=pd.read_csv('Encoding Data.csv')
 df.head()
@@ -38,6 +43,7 @@ be = BinaryEncoder()
 data = be.fit_transform(df['bin_2'])
 df  = pd.concat([df,data],axis=1)
 df
+```
 ## Data.csv:
 import pandas as pd
 df1 = pd.read_csv("data.csv")
