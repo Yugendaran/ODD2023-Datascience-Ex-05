@@ -91,48 +91,61 @@ df2
 
 ## For Encoding.csv
 
-Initial value
+## Initial value:
 ```
-273361428-f5cec2f4-94be-40fa-b2c3-a59adfa35529
-
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/8a464bd9-0bcc-4aa6-9191-076ab36629c1)
 ```
-Unique value:
-273361494-029ec726-bdca-45f7-a02e-ad869bd56ee4
+## Unique value:
+```
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/356df4ef-b067-4333-816c-73c0c8fa7261)
+```
+## Ordinal encoder:
+```
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/a6439af4-c6d3-4023-89d1-a13768f89b7f)
+```
+## Label encoder:
+```
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/f9a0bbcd-14e7-4462-a123-1bd49ffa7c49)
+```
+## Binary encoder:
+```
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/499bcb92-009d-4407-aed5-b278c4b98c6b)
+````
 
-Ordinal encoder:
-273361536-cbc90934-c85e-4e60-b062-aa17f7848e1c
-
-Label encoder:
-273361563-be7e341c-e66a-4522-9daa-ca58e835d491
-
-Binary encoder:
-273361584-6a474ae4-4f11-445a-97b7-a138b89096da 273361597-7d9da7e9-83e6-4331-a573-30e11e6e3f7b
-
-For Data.csv file:
-Initial data:
-273361639-97e763d2-5d13-4557-ac74-013d5dbafc31
-
-Unique data:
-273361675-b6eeb54b-fa73-453c-8633-e6d2683e188e
-
-Ordinal encoder:
-273361705-0347af5e-9372-4e3d-8d6c-37624bf491ad 273361778-b40cb7fe-2307-49fe-b5b4-c8fc0cc6a92e
-
-Label encoder:
-273361807-1fa70e48-0138-4374-a692-f1bbb8f31296
-
-Binary encoder:
-273361833-b1289098-ce15-417b-9fda-aa597b70ea47 273361842-4d218dd6-737b-461b-af77-e7f84210dd55
-
-For BMI.csv file:
-Initial data:
-273361857-27089f7d-ef4b-47f9-b281-55f1851c535d
-
-Binary encoders:
-273361897-f5908604-451a-4c35-89fb-03d480ee3126
-
-Dummies:
-273361998-aaf349a3-ae1d-4273-9652-ef413ff37f3d
-
+## For Data.csv file:
+## Initial data:
+```
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/beaddcda-a10d-4bd8-a633-c1cb51f90e7b)
+```
+## Unique data:
+```
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/9daa9b18-fbe3-4690-a9d2-d4718b3f62db)
+```
+## Ordinal encoder:
+```
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/68b46e3d-5b13-4996-8264-82f3cc72d73c)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/aaf7d585-8b08-47dc-a9af-9f376e469884)
+```
+## Label encoder:
+```
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/2429f88c-52bb-44a1-a0d1-a96a91d19dce)
+```
+## Binary encoder:
+```
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/8d4e955c-707e-45df-b746-ddfdfff436c5)
+```
+## For BMI.csv file:
+## Initial data:
+```
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/91c59733-90f8-4f2a-96d7-34eb0f5f40bb)
+```
+## Binary encoders:
+```
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/2d5b8185-2d0b-46fc-923e-223c9f93bdf8)
+```
+## Dummies:
+```
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/2243de98-0f19-4657-9ed4-3e19fda8530d)
+```
 ## RESULT:
 The Feature Generation process was performed and saved the data to a file.
