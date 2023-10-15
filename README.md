@@ -1,21 +1,21 @@
 # Ex:05 Feature Generation
-##AIM:
+## AIM:
 To read the given data and perform Feature Generation process and save the data to a file.
 
-##Explanation:
+## Explanation:
 Feature Generation (also known as feature construction, feature extraction or feature engineering) is the process of transforming features into new features that better relate to the target.
 
-##ALGORITHM:
+## ALGORITHM:
 STEP 1:Read the given Data
 STEP 2:Clean the Data Set using Data Cleaning Process
 STEP 3:Apply Feature Generation techniques to all the feature of the data set
 STEP 4:Save the data to the file
 
-##Program:
+## Program:
 Developed by: YUGENDARAN G
 Register number: 212221220063
 
-##For Encoding.csv file:
+## For Encoding.csv file:
 import pandas as pd
 df=pd.read_csv('Encoding Data.csv')
 df.head()
@@ -38,7 +38,7 @@ be = BinaryEncoder()
 data = be.fit_transform(df['bin_2'])
 df  = pd.concat([df,data],axis=1)
 df
-##Data.csv:
+## Data.csv:
 import pandas as pd
 df1 = pd.read_csv("data.csv")
 df1.head()
@@ -66,7 +66,7 @@ be = BinaryEncoder()
 data1 = be.fit_transform(df1['bin_2'])
 df1  = pd.concat([df1,data1],axis=1)
 df1
-##BMI.csv file:
+## BMI.csv file:
 import pandas as pd
 df2 = pd.read_csv("/content/bmi.csv")
 df2.head()
@@ -78,9 +78,9 @@ df2 = pd.get_dummies(df2, prefix=['Index'] ,columns=['Index'])
 df2
 
 
-##OUTPUT:
+## OUTPUT:
 
-##For Encoding.csv
+## For Encoding.csv
 Initial value
 273361428-f5cec2f4-94be-40fa-b2c3-a59adfa35529
 
@@ -122,5 +122,5 @@ Binary encoders:
 Dummies:
 273361998-aaf349a3-ae1d-4273-9652-ef413ff37f3d
 
-##RESULT:
+## RESULT:
 The Feature Generation process was performed and saved the data to a file.
