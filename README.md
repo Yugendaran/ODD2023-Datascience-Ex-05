@@ -90,27 +90,16 @@ df2
 ## OUTPUT:
 
 ## For Encoding.csv
-
 ## Initial value:
-```
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/8a464bd9-0bcc-4aa6-9191-076ab36629c1)
-```
 ## Unique value:
-```
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/356df4ef-b067-4333-816c-73c0c8fa7261)
-```
 ## Ordinal encoder:
-```
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/a6439af4-c6d3-4023-89d1-a13768f89b7f)
-```
 ## Label encoder:
-```
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/f9a0bbcd-14e7-4462-a123-1bd49ffa7c49)
-```
 ## Binary encoder:
-```
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/499bcb92-009d-4407-aed5-b278c4b98c6b)
-````
 
 ## For Data.csv file:
 ## Initial data:
@@ -124,18 +113,14 @@ df2
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/2429f88c-52bb-44a1-a0d1-a96a91d19dce)
 ## Binary encoder:
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/8d4e955c-707e-45df-b746-ddfdfff436c5)
+
 ## For BMI.csv file:
 ## Initial data:
-```
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/91c59733-90f8-4f2a-96d7-34eb0f5f40bb)
-```
 ## Binary encoders:
-```
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/2d5b8185-2d0b-46fc-923e-223c9f93bdf8)
-```
 ## Dummies:
-```
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-05/assets/128135616/2243de98-0f19-4657-9ed4-3e19fda8530d)
-```
+
 ## RESULT:
 The Feature Generation process was performed and saved the data to a file.
