@@ -22,7 +22,7 @@ Apply Feature Generation techniques to all the feature of the data set.
 ### STEP 4:
 Save the data to the file.
 
-## Program:
+## CODE:
 DEVELOPED BY : YUGENDARAN G
 
 REGISTER NO : 212221220063
