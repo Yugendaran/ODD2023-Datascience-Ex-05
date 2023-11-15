@@ -1,6 +1,6 @@
 # Ex NO : 05 Feature Encoding And Scaling.
 
-## DATE : 
+## DATE :  12/10/2023
 
 ## AIM:
 To read the given data and perform Feature Generation process and save the data to a file.
